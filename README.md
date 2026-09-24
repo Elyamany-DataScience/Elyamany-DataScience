@@ -1,5 +1,14 @@
 # 💫 About Me:
-fgdfgfd
+Data Analyst skilled in SQL, Power BI, Excel, and Python, with hands-on experience in data cleaning, exploratory analysis, dashboard development, and business reporting through real-world projects and intensive training programs.
+ 
+I focus on transforming raw data into clear, actionable insights that support smarter business decisions and performance improvement. My work includes:
+ • Exploratory Data Analysis (EDA)
+ • SQL querying & reporting
+ • Interactive Power BI dashboards
+ • Data cleaning & visualization
+ • Python-based analysis workflows
+ 
+Alongside my technical training, my leadership experience at AIESEC strengthened my communication, stakeholder management, and problem-solving skills, helping me approach data with both analytical and business perspectives.
 
 
 ## 🌐 Socials:
